@@ -1,5 +1,5 @@
 {
-  "name": "@ram/react-native-music-control",
+  "name": "@ram_vilash/react-native-music-control",
   "version": "1.4.0",
   "description": "Add information on lockscreen and control playing music",
   "main": "lib/index.js",
