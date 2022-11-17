@@ -1,5 +1,5 @@
 {
-  "name": "react-native-music-control",
+  "name": "@ram/react-native-music-control",
   "version": "1.4.0",
   "description": "Add information on lockscreen and control playing music",
   "main": "lib/index.js",
@@ -22,9 +22,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tanguyantoine/react-native-music-control.git"
+    "url": "https://github.com/ram-vilash/react-native-music-control.git"
   },
-  "author": "Tanguy Antoine",
+  "author": "Ram Vilash",
   "peerDependencies": {
     "react-native": ">=0.40.0"
   },
